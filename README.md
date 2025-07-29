@@ -79,3 +79,5 @@ Expectation:
 A user-friendly interface for book recommendations.
 
 Combines semantic search + filtering + sorting for a powerful recommendation system.
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/06bb539c-b5dd-4dc1-8780-a529f57cb3d4" />
+
